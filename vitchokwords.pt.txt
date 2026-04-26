@@ -279,6 +279,7 @@ defesa
 demora
 deposito
 derrota
+asno
 desafio
 desejo
 destino
