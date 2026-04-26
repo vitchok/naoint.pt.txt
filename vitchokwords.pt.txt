@@ -22,7 +22,6 @@ OVOLACTOVEGETARIANISMO
 israeliTA
 aguias-de-asa-redonda
 aguia-de-asa-redonda
-SAPINHO-ADMIRAVEIS-DE-BARRIGA-VERMELHA
 BENTEVIZINHO-DE-PENACHO-VERMELHO
 BEM-TE-VIZINHO-DE-PENACHO-VERMELHO
 BEM-TE-VIZINHOS-DE-PENACHO-VERMELHO
@@ -341,6 +340,8 @@ honra
 ideia
 idade
 imagem
+esgrima
+hifen
 impacto
 inicio
 instrucao
@@ -731,6 +732,8 @@ instalado
 instavel
 insuficiente
 insumo
+asno
+alpaca
 insulto
 insuperavel
 insustentavel
@@ -784,9 +787,6 @@ iboruna
 ibotirama
 ibutama
 ibutirama
-zabumba
-zambia
-zampar
 zangao
 zangar
 zanzibar
@@ -1180,7 +1180,7 @@ farmacologia
 farmacologico
 farmacologista
 farnel
-farniente
+
 faro
 faroeste
 farpa
@@ -1255,7 +1255,6 @@ trancado
 trancador
 trancavel
 trancafiar
-trancafiamento
 trancafiado
 trancafiador
 trancafiavel
